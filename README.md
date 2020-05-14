@@ -1,2 +1,2 @@
 # simulador_covid
-sistema de sumulaçã dinamica
+sistema de sumulação dinamica
